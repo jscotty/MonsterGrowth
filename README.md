@@ -8,9 +8,9 @@ I used a Vector2D class that my teacher Berend Weij made for us when producing t
 The code is not my biggest achievement of the game, but back then it was!<br><br>
 
 Please take a look at this code:<br>
-[Game](https://github.com/jscotty/MonsterGrowth/blob/master/src/Game.as)<br><br>
+[Game](https://github.com/jscotty/MonsterGrowth/blob/master/src/Game.as)<br>
 
-[Enemy](https://github.com/jscotty/MonsterGrowth/blob/master/src/Enemy/Enemys.as)<br><br>
+[Enemy](https://github.com/jscotty/MonsterGrowth/blob/master/src/Enemy/Enemys.as)<br>
 
-[lifeAnim(https://github.com/jscotty/MonsterGrowth/blob/master/src/UI/Lifes.as)
+[lifeAnim](https://github.com/jscotty/MonsterGrowth/blob/master/src/UI/Lifes.as)
 
